@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Mackenzie Prete 👋
 
-<!--
-**mprete/mprete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a rising senior at the **University of South Florida** studying **Risk Management & Insurance** with a minor in **Business Analytics and Information Systems**.
 
-Here are some ideas to get you started:
+## Career Interests
+I'm pursuing entry-level roles in commercial underwriting and risk analysis in the Tampa Bay area. I'm currently working toward my AINS designation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Academic Interests
+- Risk analysis and catastrophe modeling
+- Data-driven decision making in insurance
+- Business analytics and information systems
+- Insurance 
+
+## Technical Skills
+- Excel | Python | R | SQL
+- Data visualization (Tableau)
+- Currently learning: JavaScript, Git/GitHub
